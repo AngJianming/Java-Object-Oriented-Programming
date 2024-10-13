@@ -6,8 +6,7 @@ Firstly, make sure you have either one of these IDE installed: NetBeans, Intelli
 <br>Use the package manager [NetBeans](https://netbeans.apache.org/front/main/download/) | [IntelliJ IDEA](https://www.jetbrains.com/idea/download/?section=windows) | [Eclipse](https://www.eclipse.org/downloads/) to install foobar.
 <br>
 <br>For me personally I use Eclipse but you can choose up to your preference,
-<br>If your a Student in a University you can try you use your student email 
-<br>possibly get a free version of IntelliJ IDEA
+<br>If your a Student in a University you can try you use your student email possibly get a free version of IntelliJ IDEA
 
 ```bash
 git clone https://github.com/AngJianming/java-assessments-data-structures.git
