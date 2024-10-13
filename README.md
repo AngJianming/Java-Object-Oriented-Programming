@@ -44,10 +44,13 @@ import java.util.Scanner;
 <br>
 
 ## Message to Contributing
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+Contributions are always welcome! Whether you want to add new problems, improve solutions, or enhance documentation, feel free to create a pull request.
+Also please make sure to update the tests as appropriate.
+<br><br>
+Here’s how you can contribute:
+1) Fork the repository.
+2) Create a new branch with your feature or improvement.
+3) Push your changes and create a pull request.
 
 ## License
 
