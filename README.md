@@ -7,28 +7,43 @@ Firstly, make sure you have either one of these IDE installed: NetBeans, Intelli
 <br>
 <br>For me personally I use Eclipse but you can choose up to your preference,
 <br>If your a Student in a University you can try you use your student email possibly get a free version of IntelliJ IDEA
+<br><br>
 
+## Download the Latest Java Version
+Windows 11 - https://www.youtube.com/watch?v=Co5DMRh9RjE
+<br>MacBook - https://www.youtube.com/watch?v=PQk9O03cukQ
+<br>Linux - https://www.youtube.com/watch?v=UwytmFFQF6Y
+<br><br>
+
+#### Check Java Version in your Command Prompt
+```command
+java --version
+```
+or
+```command
+java -version
+```
+<br>
+
+#### Clone the repo:
 ```bash
 git clone https://github.com/AngJianming/Java-Object-Oriented-Programming.git
 ```
+<br>
 
-## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
+#### Navigate to Project manager:
+```bash
+cd Java-Object-Oriented-Programming
 ```
+<br>
 
-## Contributing
+#### Utility Usage
+```java
+import java.util.Scanner;
+```
+<br>
 
+## Message to Contributing
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
