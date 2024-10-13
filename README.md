@@ -9,7 +9,7 @@ Firstly, make sure you have either one of these IDE installed: NetBeans, Intelli
 <br>If your a Student in a University you can try you use your student email possibly get a free version of IntelliJ IDEA
 
 ```bash
-git clone https://github.com/AngJianming/java-assessments-data-structures.git
+git clone https://github.com/AngJianming/Java-Object-Oriented-Programming.git
 ```
 
 ## Usage
