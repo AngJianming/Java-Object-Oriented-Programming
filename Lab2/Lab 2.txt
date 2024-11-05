@@ -1,0 +1,178 @@
+Lab 2 –Primitive Data Types and Operations
+
+Answer the following questions.
+
+Use Scanner class for prompting the users for input.
+
+Instructor-led Demo:
+
+Write a program that reads a number in feet, converts it to meters, and displays the result. One foot is 0.305 meters.
+
+
+
+EXERCISE:
+
+1. Write a program that reads a Fahrenheit degree in double, then converts it to Celsius and displays the result on the console. The formula for the conversion is as follows:
+
+Celsius = (Fahrenheit – 32) * 5 / 9
+
+
+
+2. Write a program that reads in the radius and length of a cylinder and computes volume using the following formulas:
+
+area = radius * radius * PI (22/7)
+
+volume = area * length
+
+
+
+3. Write a program that reads an integer between 0 and 10000 and adds all the digits in the integer. For example, if an integer is 943, the sum of all its digit is 16.
+
+
+
+4. Write a program that converts an uppercase letter to a lowercase letter.
+
+
+
+5. Write a program that receives an ASCII code (an integer between 0 and 128) and displays its character. For example, if the user enters 97, the program displays character ‘a’.
+
+
+
+6. Write a program that prompts the user to enter the month and year and displays the maximum number of days in the month. For example, January is 31 days, February is 28 days, March is 31 etc.
+
+
+
+7. Write a program that prompts the user to enter assignment marks and displays the grade of the keyed in marks. The grading table is as follows:
+
+Marks Grade Description
+
+0-40 F Fail
+
+41-49 F+ Marginal Fail
+
+50-54 D Pass
+
+55-64 C
+
+65-69 B Credit
+
+70-74 B+
+
+75-79 A Distinction
+
+80-100 A+
+
+
+
+8. Write a program that sum up all the values in double typed of an array. The array capacity is 100. You are required to use for-each construct (enhanced for).
+
+
+
+9. Suppose that the tuition of a university is RM10000 this year and this tuition fee increases 5% every year. Write a program that uses a loop to compute the tuition in ten years.
+
+
+
+10. Use do-while construct, write a program that prompts the users to continue the program execution. “Yes” to continue the program and “No” to terminate the program.
+
+
+
+11. Write a program that reads in investment amount, annual interest rate, and number of years, and displays the future investment value using the following formula.
+
+futureInvestmentVal = investmentAmount x (1 + annualInterestRate/100) numberOfYears
+
+
+
+12. Write a program to display all the Perfect Numbers present in first 100000 numbers
+
+
+
+13. Write a program to display the sum of all the prime numbers present in first 100 numbers.
+
+
+
+14. Write a program to ask the user to enter an Integer value and program should display the factorial value of the given integer.
+
+
+
+15. Write a program to validate an entered Date. Ask the user to enter a valid day, month and a valid year. After user has entered the values, your program should check/validate and display a message if the entered date is valid or not.
+
+
+
+16. Write a program to display the below figure/pattern using looping structures:
+
+*
+
+**
+
+***
+
+****
+
+*****
+
+******
+
+*******
+
+
+
+17. Write a program to display the below figure/pattern using looping structures:
+
+      *
+
+     ***
+
+    *****
+
+   *******
+
+  *********
+
+ ***********
+
+*************
+
+ ***********
+
+  *********
+
+   *******
+
+    *****
+
+     ***
+
+      *
+
+
+
+
+Q18. Write a program to ask the user to enter an Integer value and program should display the times-table for the integer value form 1 till 12. You may use looping constructs for this program. For example (sample output):
+
+Enter an Integer Number: 5
+
+Times-Table for : 5
+
+5 x 1 = 5
+
+5 x 2 = 10
+
+….
+
+5 x 10 = 50
+
+5 x 11 = 55
+
+5 x 12 = 60
+
+
+
+Q19. Write a program to store data for 100 students in a module. Each student will have studentID, studentName, examMarks, assignmentMarks.
+
+Your program should be modular and should have a menu with the following options:
+
+i. Add Student Data
+
+ii. Show students result.
+
+iii. Exit.
