@@ -2,7 +2,7 @@ package Lab2;
 
 import java.util.Scanner;
 
-public class Exercise_2_CylinderVolume {
+public class Exercise_02_CylinderVolume {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter the radius: ");

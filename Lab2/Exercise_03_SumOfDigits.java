@@ -2,7 +2,7 @@ package Lab2;
 
 import java.util.Scanner;
 
-public class Exercise_3_SumOfDigits {
+public class Exercise_03_SumOfDigits {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter a number between 0 and 1000: ");

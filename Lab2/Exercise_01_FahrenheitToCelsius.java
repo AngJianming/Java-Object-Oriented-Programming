@@ -2,7 +2,7 @@ package Lab2;
 
 import java.util.Scanner;
 
-public class Exercise_1_FahrenheitToCelsius {
+public class Exercise_01_FahrenheitToCelsius {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter Fahrenheit: ");
