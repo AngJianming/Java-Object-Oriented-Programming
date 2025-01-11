@@ -1,5 +1,5 @@
-# Object Oriented Programming with Java Assessments & Data Sturctures
-Welcome Ang Jianming's & Hao Jee's personal Java Assessments & Data Structures repository! This project is mainly designed to help myself, developers, students, and interviewees practice Java-related coding problems. This repo specially focuses on data structures and algorithm-based questions. Whether you're preparing for coding interviews, working on your programming skills, or studying for exams, this repository offers a variety of problems, assessments, and solutions for your learning journey. Hope this helps :)
+# Object Oriented Programming with Java Assessments
+Welcome to Ang Jianming's & Hao Jee's personal Java Assessments & Java Learning repository! This project is mainly designed to help myself, developers, students, and interviewees practice Java-related coding problems. This repo specially focuses on data structures-based questions. Whether you're preparing for coding interviews, working on your programming skills, or studying for exams, this repository offers a variety of problems, assessments, and solutions for your learning journey. Hope this helps :)
 
 ## Installation
 Firstly, make sure you have either one of these IDE installed: NetBeans, IntelliJ IDEA or Eclipse as showed in the link below &#8595;
