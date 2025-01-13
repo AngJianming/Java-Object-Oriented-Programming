@@ -1,6 +1,6 @@
 package Lab2;
 
-public class Excecise_12_Perfect_Num_First100000 {
+public class Exercise_12_Perfect_Num_First100000 {
     public static void main(String[] args) {
         for (int i = 1; i <= 100000; i++) {
             int sum = 0;
