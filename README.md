@@ -47,7 +47,7 @@ import java.util.Scanner;
 <br>
 
 ### H_03_Inheritance in Java
-<img src="https://mulesoftonlinelearning.home.blog/wp-content/uploads/2019/12/java-inheritance.png" alt="Sample Image" width="900" height="600" align="center">
+<img src="https://mulesoftonlinelearning.home.blog/wp-content/uploads/2019/12/java-inheritance.png" alt="Sample Image" width="900" height="500" align="center">
 
 ## Message to Contributing
 Contributions are always welcome! Whether you want to add new problems, improve solutions, or enhance documentation, feel free to create a pull request.
